@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "n8n",
-    "postinstall": "n8n import:workflow --input=/home/node/workflows/Botify Agent.json"
+    
   },
   "dependencies": {
     "n8n": "^1.75.0"
