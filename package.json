@@ -7,7 +7,7 @@
     "postinstall": "n8n import:workflow --input=/home/node/workflows/Botify Agent.json"
   },
   "dependencies": {
-    "n8n": "^2.200.0"
+    "n8n": "^1.75.0"
   }
 }
 
